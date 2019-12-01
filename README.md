@@ -2,7 +2,7 @@
 
 ## INTRO = Hoe start je met een business?
 
-![image-20191201123842223](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201123842223.png)
+![image-20191201123842223](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201123842223.png)
 
 ### Design Thinking
 
@@ -23,7 +23,7 @@ Mogelijke oplossing = DESIGN THINKING
 
 #### Double Diamond
 
-![image-20191201123906036](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201123906036.png)
+![image-20191201123906036](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201123906036.png)
 
 Basisprincipe = eerst DIVERGEREN en dan CONVERGEREN
 
@@ -34,7 +34,7 @@ Basisprincipe = eerst DIVERGEREN en dan CONVERGEREN
 - Ieder voor zich
 - Kwantiteit boven kwaliteit
 
-![image-20191201123925401](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201123925401.png)
+![image-20191201123925401](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201123925401.png)
 
 #### Convergeren
 
@@ -45,7 +45,7 @@ Basisprincipe = eerst DIVERGEREN en dan CONVERGEREN
 
 ### Design Thinking Proces
 
-![image-20191201123935341](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201123935341.png)
+![image-20191201123935341](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201123935341.png)
 
 #### Ideegeneratie
 
@@ -64,33 +64,33 @@ Voorbereidende sessie(s) ter introductie van het topic/probleem
 
 #### Toelichting
 
-![image-20191201123950904](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201123950904.png)
+![image-20191201123950904](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201123950904.png)
 
 #### Clusteren
 
-![image-20191201123956663](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201123956663.png)
+![image-20191201123956663](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201123956663.png)
 
 #### Silent Review
 
-![image-20191201124005780](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124005780.png)
+![image-20191201124005780](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124005780.png)
 
 #### Stemmen
 
-![image-20191201124023552](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124023552.png)
+![image-20191201124023552](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124023552.png)
 
 #### Selecteren
 
-![image-20191201124031305](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124031305.png)
+![image-20191201124031305](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124031305.png)
 
 #### Pitch
 
-![image-20191201124037845](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124037845.png)
+![image-20191201124037845](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124037845.png)
 
 
 
 ### Business Model Canvas
 
-![image-20191201124049712](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124049712.png)
+![image-20191201124049712](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124049712.png)
 
 #### Value Propositions
 
@@ -105,19 +105,19 @@ Voorbereidende sessie(s) ter introductie van het topic/probleem
 
 #### Key Partners, Activities and Resources
 
-![image-20191201124125340](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124125340.png)
+![image-20191201124125340](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124125340.png)
 
 #### Customer Relationships, Segments and Channels
 
-![image-20191201124137502](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124137502.png)
+![image-20191201124137502](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124137502.png)
 
 #### Cost Structure & Revenue Streams
 
-![image-20191201124150025](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124150025.png)
+![image-20191201124150025](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124150025.png)
 
 #### Voorbeeld: Spotify
 
-![image-20191201124155858](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124155858.png)
+![image-20191201124155858](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124155858.png)
 
 
 
@@ -131,15 +131,15 @@ Voorbereidende sessie(s) ter introductie van het topic/probleem
 
 **Kenmerken**: werkt motiverend en richtinggevend, helpt te focussen op de kern, niet tijdsgebonden, gedragen door de top van de organisatie, duidelijk en niet te omvangrijk
 
-![image-20191201124209291](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124209291.png)
+![image-20191201124209291](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124209291.png)
 
 "Our mission is to empower every person and every organization on the planet to achieve more."
 
-![image-20191201124251617](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124251617.png)
+![image-20191201124251617](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124251617.png)
 
 “Samen duurzaam meerwaarde creëren door waardengedreven vakmanschap in retail”
 
-![image-20191201124300566](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124300566.png)
+![image-20191201124300566](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124300566.png)
 
 “Connect the world’s professionals to make them more productive and successful."
 
@@ -152,11 +152,11 @@ Voorbereidende sessie(s) ter introductie van het topic/probleem
 
 **Kenmerken**: stabiel en consistent in de tijd, biedt inspiratie en houvast bij verandering, geeft het doel aan maar niet de weg hoe de organisatie dat doel gaat bereiken, te vage begrippen vermijden: maak het concreet
 
-![image-20191201124321404](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124321404.png)
+![image-20191201124321404](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124321404.png)
 
 “Our vision is to create a better every-day life for many people.” 
 
-![image-20191201124327824](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124327824.png)
+![image-20191201124327824](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124327824.png)
 
 “We willen samen duurzaam meerwaarde creëren: vanuit onze economische impuls brengen we ook op maatschappelijk en ecologisch vlak een positieve spiraal op gang. We geloven dat ons ondernemerschap op die manier ook een motor is voor een duurzame evolutie.”
 
@@ -167,11 +167,11 @@ Voorbereidende sessie(s) ter introductie van het topic/probleem
 - Opsporen door te kijken welke waarden collega’s gebruiken, aan welke waarden beslissingen in de organisatie worden afgetoetst, ...
   
 
-![image-20191201124353339](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124353339.png)
+![image-20191201124353339](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124353339.png)
 
 “Performance, Passion, Integrity, Diversity”
 
-![image-20191201124402846](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124402846.png)
+![image-20191201124402846](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124402846.png)
 
 “Focus on impact, be bold, move fast, be open, build social value”
 
@@ -205,13 +205,13 @@ https://www.youtube.com/watch?v=mwDVayzR258
 
 ### Welke rechtsvorm? -> Juridisch verschil + welke soort **boekhouding**?
 
-![image-20191201124857067](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124857067.png)
+![image-20191201124857067](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124857067.png)
 
 
 
 
 
-![image-20191201124908544](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124908544.png)
+![image-20191201124908544](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124908544.png)
 
 
 
@@ -235,11 +235,11 @@ In werking sinds 1 mei 2019 voor nieuwe vennootschappen, voor bestaande vennoots
 
 #### Welke rechtsvorm kiezen?
 
-![image-20191201124922158](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124922158.png)
+![image-20191201124922158](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124922158.png)
 
 
 
-![image-20191201124928400](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124928400.png)
+![image-20191201124928400](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124928400.png)
 
 #### Vereenvoudigde boekhouding
 
@@ -251,7 +251,7 @@ In werking sinds 1 mei 2019 voor nieuwe vennootschappen, voor bestaande vennoots
 
 https://www.xerius.be/nl-be/drive/ondernemingsvorm/ondernemingsvorm-ez/boekhouding
 
-![image-20191201124950047](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201124950047.png)
+![image-20191201124950047](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201124950047.png)
 
 Boekhouder heeft gedetailleerde kennis van fiscaliteit:
 
@@ -264,25 +264,25 @@ Boekhouder heeft gedetailleerde kennis van fiscaliteit:
 
 #### Dubbel boekhouding
 
-![image-20191201125051821](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125051821.png)
+![image-20191201125051821](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125051821.png)
 
 *→ Zal je meestal in een boekhoudprogramma doen en in samenwerking met een boekhouder*
 
 ### Welk type onderneming? -> Welke **financiering** nodig?
 
-![image-20191201125110465](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125110465.png)
+![image-20191201125110465](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125110465.png)
 
 
 
-![image-20191201125120206](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125120206.png)
+![image-20191201125120206](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125120206.png)
 
-![image-20191201125129329](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125129329.png)
+![image-20191201125129329](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125129329.png)
 
 
 
-![image-20191201125140392](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125140392.png)
+![image-20191201125140392](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125140392.png)
 
-![image-20191201125148493](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125148493.png)
+![image-20191201125148493](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125148493.png)
 
 #### Type kredieten:
 
@@ -299,11 +299,11 @@ Kaskrediet: mogelijkheid om tijdelijk onder nul te gaan, ZEER DUUR
 
 **Leasing** 
 
-![image-20191201125211580](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125211580.png)
+![image-20191201125211580](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125211580.png)
 
 
 
-![image-20191201125230000](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125230000.png)
+![image-20191201125230000](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125230000.png)
 
 Een aantal financieringsvormen uitgelicht: 
 
@@ -325,13 +325,13 @@ Typisch geld dat gebruikt wordt voor onderzoek en ontwikkeling
 
 Zaaigeld kan ook helpen bij het lanceren van het product en het van de grond krijgen van een bedrijf
 
-![image-20191201125251996](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125251996.png)
+![image-20191201125251996](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125251996.png)
 
-![image-20191201125300773](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125300773.png)
+![image-20191201125300773](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125300773.png)
 
 #### IPO = Initial Public Offering = De Beursgang...
 
-![image-20191201125318070](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125318070.png)
+![image-20191201125318070](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125318070.png)
 
 
 
@@ -371,7 +371,7 @@ https://www.vlaio.be/nl/publicaties/startkompas
 
 **VARIABELE KOSTEN** = Hangt rechtstreeks samen met je productievolume
 
-![image-20191201125356426](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125356426.png)
+![image-20191201125356426](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125356426.png)
 
 ### Welke financiële documenten zal je zeker gebruiken?
 
@@ -379,7 +379,7 @@ https://www.vlaio.be/nl/publicaties/startkompas
 
 Komt in allerlei vormen en geuren en kleuren.
 
-![image-20191201125404305](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125404305.png)
+![image-20191201125404305](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125404305.png)
 
 #### Offerte
 
@@ -408,19 +408,19 @@ Vele mogelijkheden: gestandaardiseerd document, geautomatiseerd via bv. website,
 
 Best alle leveringsvoorwaarden + algemene verkoopsvoorwaarden nog eens vermelden en onderteken
 
-![image-20191201125417664](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125417664.png)
+![image-20191201125417664](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125417664.png)
 
 #### Factuur
 
 Wettelijk verplicht document, behalve aan particulieren
 
-![image-20191201125429168](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125429168.png)
+![image-20191201125429168](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125429168.png)
 
 Veel wettelijke verplichtingen, juridisch bindend document: 
 
 - https://www.unizo.be/advies/welke-vermeldingen-moeten-er-op-de-factuur-staan-1
 
-  ![image-20191201125438473](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125438473.png)
+  ![image-20191201125438473](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125438473.png)
 
   **Berekening factuur**
 
@@ -452,7 +452,7 @@ Veel wettelijke verplichtingen, juridisch bindend document:
 
   #### Debet nota
 
-  ![image-20191201125506565](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125506565.png)
+  ![image-20191201125506565](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125506565.png)
 
 
 
@@ -463,11 +463,11 @@ Waarom?
    (eerder niet gekend of vergeten)
 - Interesten laattijdige betaling
 
-![image-20191201125519126](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125519126.png)
+![image-20191201125519126](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125519126.png)
 
 #### Credit Nota
 
-![image-20191201125527372](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125527372.png)
+![image-20191201125527372](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125527372.png)
 
 **Waarom?** 
 
@@ -477,7 +477,7 @@ Waarom?
 - Terugkeer gefactureerde verpakking
 - Korting wegens vervroegde betaling
 
-![image-20191201125533976](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125533976.png)
+![image-20191201125533976](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125533976.png)
 
 ### Welke **belastingen** krijg je mee te maken en hoe kan je dit optimaliseren?
 
@@ -490,25 +490,25 @@ De voornaamste:
 - Sociale bijdragen
 - Loonlasten
 
-![image-20191201125551615](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125551615.png)
+![image-20191201125551615](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125551615.png)
 
 **Conclusie**: Hoe hoger je omzet wordt, hoe interessanter het wordt om  een vennootschap op te richten  
 
-![image-20191201125602566](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125602566.png)
+![image-20191201125602566](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125602566.png)
 
 **Belangrijk**: je wordt belast op je WINST, dus als je dit kan drukken, betaal je minder belastingen
 
 Hangt dus sterk af van de kosten die je maakt en het loon dat je zelf uitkeert
 
-![image-20191201125619460](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125619460.png)
+![image-20191201125619460](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125619460.png)
 
-![image-20191201125631511](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125631511.png)
+![image-20191201125631511](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125631511.png)
 
 #### BTW
 
 = In principe neutraal voor een bedrijf
 
-![image-20191201125639813](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201125639813.png)
+![image-20191201125639813](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201125639813.png)
 
 
 
