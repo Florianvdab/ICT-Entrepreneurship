@@ -606,7 +606,7 @@ analyse van de behoeften en van de motivatie
 
 #### Maslow
 
-![image-20191201133302278](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201133302278.png)
+![image-20191201133302278](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201133302278.png)
 
 #### Moeder waarom kopen wij?
 
@@ -717,7 +717,7 @@ goederen die technisch voorbijgestreefd zijn of beschadigd zijn
 
 - Plaats (waar je verkoopt) en distributie
 
-![image-20191201134428359](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201134428359.png)
+![image-20191201134428359](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201134428359.png)
 
 - Elke tussenstap wil geld verdienen
 - Waardetoevoeging
@@ -781,7 +781,7 @@ Waar is de visie / het belang van de klant?
   - Met veel keuzemogelijkheden
   - Afgestemd op verschillende doelgroepen
 
-  ![image-20191201135431417](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201135431417.png)
+  ![image-20191201135431417](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201135431417.png)
 
 (Spotify abbonement - Family - 1 persoon)
 
@@ -799,7 +799,7 @@ Waar is de visie / het belang van de klant?
   - Co-Creatie
 - CRM
 
-![image-20191201135807136](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images\image-20191201135807136.png)
+![image-20191201135807136](https://raw.githubusercontent.com/Florianvdab/ICT-Entrepreneurship/master/images/image-20191201135807136.png)
 
 ### Omgaan met klanten
 
